@@ -1,0 +1,61 @@
+.library_LeftListSizableContainer_9sPoV {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  max-width: 25%;
+  position: relative;
+}
+
+/* Library Home Button & Options */
+.gamelistbar_Container_3x1Hk {
+  background-color: var(--games-options-bg);
+}
+
+/* Home & Collection Container */
+.gamelistbar_GameListHomeAndSearch_2TKEa {
+  background: transparent;
+}
+
+/* Library Home Button */
+.gamelisthome_Bar_3pSPl {
+  height: initial;
+  min-height: 32px;
+  border-radius: 0;
+}
+
+.gamelisthome_Bar_3pSPl:hover,
+.gamelisthome_Bar_3pSPl.gamelisthome_Selected_eNLOx {
+  background-color: rgb(50, 53, 56);
+}
+
+.gamelisthome_Bar_3pSPl:hover > .gamelisthome_Label_3O48L:before,
+.gamelisthome_Bar_3pSPl.gamelisthome_Selected_eNLOx  > .gamelisthome_Label_3O48L:before {
+  text-shadow: 0 0 3px rgb(255, 255, 255);
+}
+
+.gamelisthome_Label_3O48L {
+  display: flex;
+  visibility: hidden;
+  font-size: 0px;
+  word-break: break-word;
+}
+
+.gamelisthome_Label_3O48L::before {
+  font-size: var(--font-size);
+  content: var(--LibraryName);
+  text-transform: var(--font-style);
+  font-family: var(--font-family);
+  visibility: visible;
+  display: block;
+  letter-spacing: var(--letter-spacing);
+}
+
+/* Collection Button */
+.gamelisthome_Bar_3pSPl.gamelisthome_CollectionButton_30KGS {
+  border: 1px solid #fff1;
+}
+
+/* Games List */
+.gamelist_Container_1ijTa {
+  background: var(--games-list-bg);
+}

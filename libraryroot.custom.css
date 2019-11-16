@@ -1,0 +1,13 @@
+
+/* !!! DON'T EDIT THESE UNLESS YOU KNOW WHAT IT'S FOR !!! */
+@import url('https://jsylucero.github.io/steam-library-pv2/pixelvision2/css/import.css');
+@import url('./pixelvision2/css/import.css');
+@import url('config.css');
+/* !!! DON'T EDIT THESE UNLESS YOU KNOW WHAT IT'S FOR !!! */
+
+/* Disable Shadows & Transitions */
+* {
+  transition: 0s !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none; 
+}

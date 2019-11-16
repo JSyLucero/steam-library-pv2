@@ -1,0 +1,42 @@
+/* SKIN CONFIGURATIONS BELOW */
+:root {
+  /************************/
+  /* LIBRARY SIDEBAR      */
+  /************************/
+
+  /*************************/
+  /* SET LIBRARY HOME TEXT */
+  /*************************/
+  --font-size: 15px;
+  --font-style: uppercase; /* Set to "lowercase" or "uppercase" or "none" */
+  --letter-spacing: 1px; /* Spacing between letters */
+  --library-home-bg: transparent; /* Button background color */
+  --LibraryName: 'Library Home';
+ 
+  --games-options-bg: rgb(10, 13, 16);
+  --games-list-bg: rgb(30, 33, 36);
+
+  /************************/
+  /* GAME DETAILS         =/
+  /************************/
+  /* Set to "flex" to show | "none" to hide */
+  /* Default is flex */
+  --display-game-header: flex;
+  
+  /* Set to "flex" to always display title | "none" for only when scrolling past game-header */
+  /* Recommend turning this to "flex" when game-header is set to "none" */
+  --always-show-game-title: none;
+
+  /*** GAME DETAILS BODY ***/
+  /*** BLUR AMOUNT / STRENGTH ***/
+  /* Set to 0px for no blur */
+  /* Low End PCs - 10px or lower */
+  /* High End PCs - 20px or higher (or lower if you wish)*/
+  /* Default is 10px */
+  --blur-amount: blur(10px);
+  
+  /* Controls Blur Underneath Body */
+  /* Set to "hidden" or "visible" */
+  /* Default is visible */
+  --image-blur: visible;
+}

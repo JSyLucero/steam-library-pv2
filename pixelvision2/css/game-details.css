@@ -1,0 +1,75 @@
+/* Game Details Header */
+.sharedappdetailsheader_TopCapsule_NZMJ6.sharedappdetailsheader_TopCapsule_NZMJ6 {
+  display: var(--display-game-header);
+  overflow: var(--image-blur);
+}
+
+.appdetailsplaysection_Row_9EHg9 {
+  align-items: center;
+}
+
+.appdetailsplaysection_StatusAndStats_1YbtI .appdetailsplaysection_StatusNameContainer_zjtAI {
+  height: initial;
+  min-height: 46px;
+  flex-wrap: wrap;
+}
+
+.appdetailsplaysection_StatusAndStats_1YbtI {
+  min-height: 46px;
+  max-height: initial;
+}
+
+/* Game Stats */
+.appdetailsplaysection_GameStatsSection_1mDAV {
+  order: 1;
+}
+
+/* Game Title */
+.appdetailsplaysection_StatusAndStats_1YbtI .appdetailsplaysection_PlayBarIconAndGame_2MBVR {
+  order: 0;
+  display: var(--always-show-game-title);
+  color: rgb(245,245,245);
+  position: inherit;
+  height: 46px;
+  width: 100%;
+  margin-bottom: 5px;
+  opacity: 1;
+}
+
+/* Sticky Header */
+.appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_ActionSection_2zxzS {
+  height: 100%;
+}
+.appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_StatusAndStats_1YbtI .appdetailsplaysection_GameStatsSection_1mDAV {
+  display: none;
+}
+
+.appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_StatusAndStats_1YbtI .appdetailsplaysection_PlayBarIconAndGame_2MBVR{
+  display: flex;
+  margin-bottom: 0;
+}
+
+.appdetailsplaysection_RightControls_1EAxK {
+  justify-content: center;
+}
+
+/* Game Details Body */
+.appdetails_Glassy_3Fmxx.appdetails_ScrollContainer_2l416 {
+  background-image: radial-gradient(100% 100% at 50% -50%, #1b425e 0%, #14171a 100%);
+}
+
+.appdetailsoverview_Container_27RcN {
+  backdrop-filter: var(--blur-amount);
+}
+
+.appdetailsoverview_Glassy_2OOzY .appdetailsoverview_BackdropGlass_Jbe-- {
+  backdrop-filter: var(--blur-amount);
+}
+
+.appdetailsoverview_Glassy_2OOzY .appdetailsoverview_ColumnContainer_OhSdL {
+  backdrop-filter: blur(0px);
+}
+
+.appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_Glassy_3DeO9 {
+  backdrop-filter: var(--blur-amount);
+}

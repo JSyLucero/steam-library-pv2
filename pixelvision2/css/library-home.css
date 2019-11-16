@@ -1,0 +1,27 @@
+:root {
+  --sc2top-border: rgba(255, 255, 255, 0.35);
+}
+
+.libraryhome_Container_2gSXC {
+  background: radial-gradient(100% 100% at 50% -50%, #1b425e 0%, #14171a 100%);
+}
+
+.libraryhome_UpdatesContainer_17uEB {
+  background: transparent;
+}
+
+/* Scroll To Top */
+.smartscrollcontainer_ScrollToTopButton_1J21t div {
+  color: rgb(215, 225, 235);
+  border-top: 1px solid var(--sc2top-border);
+  border-left: 1px solid var(--sc2top-border);
+  border-right: 1px solid var(--sc2top-border);
+  border-radius: 0 !important;
+  background: #2a2d32;
+}
+
+/* Scroll To Top Hover Effect */
+.smartscrollcontainer_ScrollToTopButton_1J21t:hover.smartscrollcontainer_Visible_28ZR8 {
+  text-shadow: 0 0 3px rgba(255, 255, 255, 1);
+  filter: brightness(1.4);
+}
