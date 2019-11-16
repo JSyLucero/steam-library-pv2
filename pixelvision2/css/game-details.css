@@ -36,6 +36,11 @@
   opacity: 1;
 }
 
+/* Game Unavailable */
+.appdetailsplaysection_StatusAndStats_1YbtI.appdetailsplaysection_PermanentlyUnavailable_3CYvy > .appdetailsplaysection_DetailsSection_1dg8h {
+  height: 46px;
+}
+
 /* Sticky Header */
 .appdetailsplaysection_StickyHeader_39Rhe .appdetailsplaysection_ActionSection_2zxzS {
   height: 100%;
