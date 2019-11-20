@@ -1,5 +1,7 @@
 # Steam Library - PixelVision2
-This Steam Library Skin is made by Xishiora (aka JSyLucero on GitHub) in order to make the new Steam Library match the UI of PixelVision2.
+This Steam Library Skin is made by Xishiora (aka JSyLucero on GitHub) in order to make the new Steam Library match the UI of PixelVision2.  
+
+**PixelVision2 Library Download:** https://github.com/JSyLucero/steam-library-pv2/archive/master.zip
 
 ## Installation
 ### Windows
@@ -7,7 +9,6 @@ This Steam Library Skin is made by Xishiora (aka JSyLucero on GitHub) in order t
 **Requirements**
 
 **SteamFriendsPatcher by PhantomGamers:** https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest  
-**Steam Library Download:** https://github.com/JSyLucero/steam-library-pv2/archive/master.zip
 
 **Installation Instructions**
 
