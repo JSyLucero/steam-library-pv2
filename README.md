@@ -42,9 +42,9 @@ However, you may proceed with this method if you wish.
     From here you will be required to add launch arguments to Steam.
     
     The required Steam launch arguments to use for this are... -noverifyfiles and -norepairfiles
-    After these arguments are placed launch Steam!
+    After these arguments are placed Steam should launch without removing the skin~
 
-    Enjoy~
+    Enjoy!~
 
 # Screenshots
 
