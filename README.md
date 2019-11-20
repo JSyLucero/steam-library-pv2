@@ -1,11 +1,12 @@
 # Steam Library - PixelVision2
+This Steam Library Skin is made by Xishiora (aka JSyLucero on GitHub) in order to make the new Steam Library match the UI of PixelVision2.
+
 ## Installation
 ### Windows
-#### Method 1 - SteamFriendsPatcher
+### Method 1 - SteamFriendsPatcher
 **Requirements**
 
-**SteamFriendsPatcher by PhantomGamers:** https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest
-
+**SteamFriendsPatcher by PhantomGamers:** https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest  
 **Steam Library Download:** https://github.com/JSyLucero/steam-library-pv2/archive/master.zip
 
 **Installation Instructions**
@@ -19,16 +20,13 @@
     Once everything is placed, run the SteamFriendsPatcher by PhantomGamers and you're good to go.
     Note: If the patcher doesn't end up working, click [Force Check] in the patcher.
 
-#### Method 2 - Steam Launch Arguments
-
+### Method 2 - Steam Launch Arguments
 **Note:** I highly recommend **Method 1** as this method will keep Steam from updating I believe.
 However, you may proceed with this method if you wish.
 
 **Installation Instructions**
 
     The installation instructions are similar to method #1, although a bit different.
-
-    The first step for this, you will be required to exit Steam first.
 
     Go to the directory where your Steam install is located and go into:
     "<Steam Install Path>\steamui\"
@@ -48,12 +46,11 @@ However, you may proceed with this method if you wish.
 
     Enjoy~
 
-
-### Changelog
-
-**I'll place something here eventually**
-
 # Screenshots
 
 ![](https://i.imgur.com/elKRglo.jpg)
 ![](https://i.imgur.com/KA2sLL2.jpg)
+
+## Changelog
+
+**I'll place something here eventually**
