@@ -9,5 +9,6 @@
 * {
   transition: 0s !important;
   -webkit-box-shadow: none !important;
-  box-shadow: none; 
+  box-shadow: none;
+  border-radius: 0 !important;
 }
