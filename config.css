@@ -3,18 +3,27 @@
   /************************/
   /* LIBRARY SIDEBAR      */
   /************************/
-
-  /*************************/
-  /* SET LIBRARY HOME TEXT */
-  /*************************/
+  /*** SET HOME Button TEXT  ***/
   --font-size: 15px;
   --font-style: uppercase; /* Set to "lowercase" or "uppercase" or "none" */
   --letter-spacing: 1px; /* Spacing between letters */
   --library-home-bg: transparent; /* Button background color */
   --LibraryName: 'Library Home';
  
-  --games-options-bg: rgb(10, 13, 16);
-  --games-list-bg: rgb(30, 33, 36);
+  /************************/
+  /* LIBRARY GAMES LIST   */
+  /************************/
+  /* Games List Font Colors */
+  --games-list-font-size: 13px;
+  --category-font-color: #e0e4e8;
+  --installed-font-color: #ffffff;
+  --uninstalled-font-color: #A9A9A9;
+
+  /************************/
+  /* LIBRARY HOME         =/
+  /************************/
+  /* Set to "block" to display What's New | "none" to remove What's New */
+  --Display-WhatsNewSection: block;
 
   /************************/
   /* GAME DETAILS         =/
@@ -26,7 +35,7 @@
   /* Set to "flex" to always display title | "none" for only when scrolling past game-header */
   /* Recommend turning this to "flex" when game-header is set to "none" */
   --always-show-game-title: none;
-
+  
   /*** GAME DETAILS BODY ***/
   /*** BLUR AMOUNT / STRENGTH ***/
   /* Set to 0px for no blur */

@@ -1,3 +1,11 @@
+:root {
+  --games-options-bg: rgb(10, 13, 16);
+  --games-list-bg: rgb(30, 33, 36);
+  --game-hover-bg: rgba(51, 55, 59);
+  --selected-game-bg: rgba(53, 63, 80);
+  --selected-game-hover-bg: rgba(63, 73, 100);
+}
+
 .library_LeftListSizableContainer_9sPoV {
   flex-shrink: 0;
   display: flex;
@@ -58,4 +66,56 @@
 /* Games List */
 .gamelist_Container_1ijTa {
   background: var(--games-list-bg);
+}
+
+/* Games List Font Size */
+.gamelistentry_Container_2-O4Z {
+  font-size: var(--games-list-font-size);
+}
+
+/* Games List Hover Background */
+.gamelistentry_Container_2-O4Z:hover, 
+.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
+  background-color: var(--game-hover-bg);
+}
+
+/* Games List Selected Background*/
+.gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z, 
+.gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z {
+  background-color: var(--selected-game-bg);
+}
+
+/* Games List Selected Hover Background */
+.gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z:hover, 
+.gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, 
+.gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z :hover, 
+.gamelistentry_Selected_1UBpA.gamelistentry_Container_2-O4Z .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, 
+.gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z:hover, 
+.gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy, 
+.gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z :hover, 
+.gamelistentry_Selected_1UBpA .gamelistentry_Container_2-O4Z 
+.gamelistentry_Container_2-O4Z.gamelistentry_HoverOverlay_3cMVy {
+  background-color: var(--selected-game-hover-bg);
+}
+
+/* Category Font Color */
+.gamelistsectionheader_SectionHeaderContent_3cV3O .gamelistsectionheader_SectionName_2mZ8L {
+  color: var(--category-font-color);
+  opacity: 0.65;
+}
+
+/* Category Font Color (Hover) */
+.gamelistsectionheader_SectionHeaderContent_3cV3O:hover .gamelistsectionheader_SectionName_2mZ8L {
+  color: var(--category-font-color);
+  opacity: 1;
+}
+
+/* Installed Game Font Color */
+.gamelistentry_Installed_2ws8D {
+  color: var(--installed-font-color);
+}
+
+/* Uninstalled Game Font Color */
+.gamelistentry_Uninstalled_5YTBr {
+  color: var(--uninstalled-font-color);
 }

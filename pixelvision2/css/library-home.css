@@ -2,8 +2,12 @@
   --sc2top-border: rgba(255, 255, 255, 0.35);
 }
 
+.libraryhome_WhatsNewContainer_gdZT7 {
+  display: var(--Display-WhatsNewSection);
+}
+
 .libraryhome_Container_2gSXC {
-  background: radial-gradient(100% 100% at 50% -50%, #1b425e 0%, #14171a 100%);
+  background: radial-gradient(100% 100% at 50% -50%, #0f5f87 0%, #14171a 100%);
 }
 
 .libraryhome_UpdatesContainer_17uEB {
