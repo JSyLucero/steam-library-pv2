@@ -50,7 +50,3 @@ However, you may proceed with this method if you wish.
 
 ![](https://i.imgur.com/elKRglo.jpg)
 ![](https://i.imgur.com/KA2sLL2.jpg)
-
-## Changelog
-
-**I'll place something here eventually**
