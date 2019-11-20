@@ -6,11 +6,11 @@ This Steam Library Skin is made by Xishiora (aka JSyLucero on GitHub) in order t
 ## Installation
 ### Windows
 ### Method 1 - SteamFriendsPatcher
-**Requirements**
+#### Requirements
 
 **SteamFriendsPatcher by PhantomGamers:** https://github.com/PhantomGamers/SteamFriendsPatcher/releases/latest  
 
-**Installation Instructions**
+#### Installation Instructions
 
     Go to the directory where your Steam install is located and go into:
     "<Steam Install Path>\steamui\"
@@ -25,7 +25,7 @@ This Steam Library Skin is made by Xishiora (aka JSyLucero on GitHub) in order t
 **Note:** I highly recommend **Method 1** as this method will keep Steam from updating I believe.
 However, you may proceed with this method if you wish.
 
-**Installation Instructions**
+#### Installation Instructions
 
     The installation instructions are similar to method #1, although a bit different.
 
