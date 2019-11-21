@@ -1,8 +1,8 @@
 /* Keeps Library UI Updated with Online Version */
-@import url('https://jsylucero.github.io/steam-library-pv2/css/pixelvision2/library-home.css');
-@import url('https://jsylucero.github.io/steam-library-pv2/css/pixelvision2/library-sidebar.css');
-@import url('https://jsylucero.github.io/steam-library-pv2/css/pixelvision2/games-detail.css');
-@import url('https://jsylucero.github.io/steam-library-pv2/css/pixelvision2/scrollbar.css');
+@import url('https://jsylucero.github.io/steam-library-pv2/pixelvision2/css/library-home.css');
+@import url('https://jsylucero.github.io/steam-library-pv2/pixelvision2/css/library-sidebar.css');
+@import url('https://jsylucero.github.io/steam-library-pv2/pixelvision2/css/games-detail.css');
+@import url('https://jsylucero.github.io/steam-library-pv2/pixelvision2/css/scrollbar.css');
 @import url('https://jsylucero.github.io/steam-library-pv2/config.css');
 
 /* load locally */
